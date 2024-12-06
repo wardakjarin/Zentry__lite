@@ -6,7 +6,7 @@ tryna clone zentry
 <div align="center">
   <br />
     <a href="https://youtu.be/zA9r5zTllx4" target="_blank">
-      <img src=" " alt="Project Banner">
+      <img src="https://zentry.com/export/images/home/intro/custom-home-intro-desktop-outer@lg.webp" alt="Project Banner">
     </a>
   <br />
 **Made Using**

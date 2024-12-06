@@ -66,8 +66,19 @@ npm run dev
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
 **Demo:**
-
+![start](<Screenshot 2024-12-06 212255.png>)
 will add in a while
+![2](<Screenshot 2024-12-06 212304.png>)
+![3](<Screenshot 2024-12-06 212310.png>)
+![4](<Screenshot 2024-12-06 212316.png>)
+![5](<Screenshot 2024-12-06 212325.png>)
+![6](<Screenshot 2024-12-06 212325.png>)
+![7](<Screenshot 2024-12-06 212336.png>)
+![8](<Screenshot 2024-12-06 212341.png>)
+![9](<Screenshot 2024-12-06 212349.png>)
+![10](<Screenshot 2024-12-06 212353.png>)
+
+
 
 **Challenges Faced:**
 Authentication: Couldn't implement authentication due to time constraints and complexity.

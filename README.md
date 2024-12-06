@@ -81,8 +81,8 @@ will add in a while
 
 
 **Challenges Faced:**
-Authentication: Couldn't implement authentication due to time constraints and complexity.
-Database Connectivity: Unable to connect a database because the MongoDB server on the laptop isn't functioning properly.
+<h4>Authentication:</h4> Couldn't implement authentication due to time constraints and complexity.
+<h4>Database Connectivity:</h4> Unable to connect a database because the MongoDB server on the laptop isn't functioning properly.
 **Future Plans**
 Complete the project by replicating all the functionality of Zentry, including backend integration, authentication, and database connectivity, to turn it into an almost exact clone and dive in new experiments .
 

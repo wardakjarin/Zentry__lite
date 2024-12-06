@@ -5,8 +5,8 @@ tryna clone zentry
 
 <div align="center">
   <br />
-    <a href="https://youtu.be/zA9r5zTllx4" target="_blank">
-      <img src="https://zentry.com/export/images/home/intro/custom-home-intro-desktop-outer@lg.webp" alt="Project Banner">
+    <a href="https://github.com/wardakjarin" target="_blank">
+      <img src="https://www.bee.com/wp-content/uploads/2024/05/frc-69ef1e7269edf7176637eb1f109bfecb.jpg" alt="Project Banner">
     </a>
   <br />
 **Made Using**

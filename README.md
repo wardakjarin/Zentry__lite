@@ -99,7 +99,7 @@ Complete the project by replicating all the functionality of Zentry, including b
 
 ## ⚠️ Disclaimer
 
-All design credits go to **[Zentry](https://zentry.com/)**. This project is created purely for **educational purposes** and is not intended for commercial use or public deployment.
-
+All design credits go to **[Zentry](https://zentry.com/)**. This project is created purely for **educational purposes** and is not intended for commercial use or public deployment.For more details ,check out:
+**[Zentry_whitepaper](https://zentry.com/whitepaper)**
 
 Built this visually captivating website inspired by **[Zentry](https://zentry.com/)**, featuring scroll-triggered animations, geometric transitions, and engaging video storytelling. experience a luxurious, modern feel, focusing on engaging UI/UX and smooth responsiveness, capturing the essence of what makes an eye captivating.

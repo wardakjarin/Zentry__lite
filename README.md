@@ -28,7 +28,7 @@ tryna clone zentry
 
 ```bash
 git clone https://github.com/wardakjarin/Zentry__lite
-cd zentry_lite
+cd zentry__lite
 ```
 
 **Installation**

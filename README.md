@@ -103,3 +103,6 @@ All design credits go to **[Zentry](https://zentry.com/)** (it got the coolest w
 **[Zentry_whitepaper](https://zentry.com/whitepaper)**
 
 Built this visually captivating website inspired by **[Zentry](https://zentry.com/)**, featuring scroll-triggered animations, geometric transitions, and engaging video storytelling. experience a luxurious, modern feel, focusing on engaging UI/UX and smooth responsiveness, capturing the essence of what makes an eye captivating.
+
+
+<h5>All ik is i tried my lvl best, although its not much its honest work,,Thank you</h5>

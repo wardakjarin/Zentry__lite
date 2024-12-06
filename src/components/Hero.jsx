@@ -151,9 +151,9 @@ const Hero = () => {
             </h1>
 
             <p className="mb-5 max-w-64 font-robert-regular text-blue-100">
-              Enter the Metagame Layer <br /> Unleash the Play Economy
+            Zentry is where worlds converge and communities connect. <br /> Join us in the rise of gaming culture and shape one of the largest economies of the new era.
             </p>
-
+            
             <Button
               id="watch-trailer"
               title="Watch trailer"

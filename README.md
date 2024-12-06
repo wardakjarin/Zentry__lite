@@ -22,7 +22,25 @@ tryna clone zentry
      Built this project step by step with a detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> 
     </div>
 </div>
-
+<div>
+ <h3> **Project Description:**</h3>
+This project is almost a frontend clone of zentry.com, built using React, Tailwind CSS, and GSAP for animations. It's designed to replicate the look and feel of the original website while exploring modern web development techniques.
+</div>
+<div>
+<h3>**Features**</h3>
+Fully responsive design.
+Smooth animations using GSAP.
+Custom UI elements styled with Tailwind CSS.
+Dynamic React components.
+</div>
+<div>
+<h3>**Tech Stack:**</h3>
+tools and libraries:
+Frontend: React
+Styling: Tailwind CSS
+Animations: GSAP
+Build Tool: React Vite
+</div>
 
 **Cloning the Repository**
 
@@ -46,6 +64,16 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+
+**Demo:**
+
+will add in a while
+
+**Challenges Faced:**
+Authentication: Couldn't implement authentication due to time constraints and complexity.
+Database Connectivity: Unable to connect a database because the MongoDB server on the laptop isn't functioning properly.
+**Future Plans**
+Complete the project by replicating all the functionality of Zentry, including backend integration, authentication, and database connectivity, to turn it into an almost exact clone and dive in new experiments .
 
 ## ⚠️ Disclaimer
 
